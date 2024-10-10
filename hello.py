@@ -1,1 +1,1 @@
-print("qwer")
+print("qwer lamf mau")
